@@ -61,6 +61,10 @@ Here you’ll find my projects, experiments, and community contributions.
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/><br>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/@tanstack%2Freact--query-4158D0?style=for-the-badge&logo=tanstack&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/@tanstack%2Freact--table-3793C6?style=for-the-badge&logo=tanstack&logoColor=white"/><br>
     </td>
     <td>
       <img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/><br>
