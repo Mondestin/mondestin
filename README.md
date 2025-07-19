@@ -7,12 +7,13 @@
 I’m a **Software Engineer** passionate about building secure, scalable APIs and integrating complex systems.  
 Here you’ll find my projects, experiments, and community contributions.
 
-***🚀 About Me***
+***🚀 About Me*** 
 
 - 🔭 Designing & deploying APIs, microservices & integration solutions  
 - 🌱 Exploring cloud-native architectures & DevSecOps  
 - 💬 Ask me about API design (REST/SOAP), CI/CD pipelines, and integration best practices  
 - 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/mondestin-myssie-015367a7/)
+- <img src="https://komarev.com/ghpvc/?username=mondestin&style=for-the-badge&color=blue" alt="Profile views"/>
 
 **🛠️ My Tech Stack**
 <table>
