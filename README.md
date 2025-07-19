@@ -7,15 +7,14 @@
 I’m a **Software Engineer** passionate about building secure, scalable APIs and integrating complex systems.  
 Here you’ll find my projects, experiments, and community contributions.
 
-## 🚀 About Me
+***🚀 About Me***
 
 - 🔭 Designing & deploying APIs, microservices & integration solutions  
 - 🌱 Exploring cloud-native architectures & DevSecOps  
 - 💬 Ask me about API design (REST/SOAP), CI/CD pipelines, and integration best practices  
 - 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/mondestin-myssie-015367a7/)
 
-## 🛠️ My Tech Stack
-
+**🛠️ My Tech Stack**
 <table>
   <tr>
     <th align="left">Integration & APIs</th>
@@ -77,13 +76,13 @@ Here you’ll find my projects, experiments, and community contributions.
   </tr>
 </table>
 
-## 📈 GitHub Stats
+**📈 GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mondestin&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mondestin&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
-## ✨ Fun Facts
+**✨ Fun Facts**
 
 - 💡 I love solving integration challenges and making systems talk  
 - 🧩 I thrive in Agile environments and collaborative problem-solving  
